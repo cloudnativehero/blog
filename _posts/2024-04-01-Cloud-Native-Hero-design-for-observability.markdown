@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Cloud Native Hero Newsletter - Design for Observability"
+title:  "Cloud Native Hero Newsletter - Design for Observability - Introduction"
 date:   2024-04-01 18:00:00 +0530
 categories:  observability
 author: coolsvap
 permalink: /cloud-native-hero-design-for-observability-001
 ---
-# Design for Observability
+# Design for Observability - Introduction
 
 **Observability** is a fundamental concept in various fields such as engineering, computer science, and systems theory. It refers to the **ability to understand the internal state of a system solely through its outputs**, allowing for effective **monitoring**, **troubleshooting**, and **optimization**. In complex systems, especially those involving software, networks, or large-scale infrastructure, observability plays a crucial role in ensuring reliability, performance, and maintainability.
 
