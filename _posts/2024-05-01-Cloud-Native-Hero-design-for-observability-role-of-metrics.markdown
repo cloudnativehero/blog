@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cloud Native Hero Newsletter - Design for Observability"
+title:  "Cloud Native Hero Newsletter - Design for Observability - Role of Metrics"
 date:   2024-05-01 00:00:00 +0530
 categories:  observability metrics
 author: coolsvap
