@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Cloud Native Hero!
-email: cloudnativetech@gmail.com
+email: company@cloudnativehero.com
 tagline: All Things Cloud Native
 description: >- # this means to ignore newlines until "baseurl:"
   All Things Cloud Native.
@@ -28,7 +28,7 @@ url: "https://cloudnativehero.github.io" # the base hostname & protocol for your
 twitter_username: cloudnativehero
 github_username:  cloudnativehero
 
-author: Swapnil Kulkarni
+author: Cloud Native Hero!
 disqus:
   shortname: cloudnativehero-blog
 
@@ -58,7 +58,7 @@ plugins:
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
-#   - Gemfile.lock
+#   - Gemfile.lock/
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
