@@ -30,6 +30,8 @@ Following are the primary components to observability platform:
 
 To achieve observability, systems need to be properly instrumented with tools and techniques that collect and analyze metrics, logs, and traces. This often involves incorporating monitoring tools, logging frameworks, distributed tracing systems, and other observability solutions into the architecture of the system. By embracing observability principles and investing in the right tools and practices, organizations can gain valuable insights into the behaviour of their systems, enabling them to detect and diagnose issues quickly, optimize performance, and ultimately deliver better experiences for their users.
 
+Next in the series is the [role of metrics](https://cloudnativehero.github.io/cloud-native-hero-design-for-observability-002) in the observability platform.
+
 ---
 
 Subscribe to the [Cloud Native Hero! Newsletter](https://www.linkedin.com/newsletters/6940180331832446978/) for regular updates.
